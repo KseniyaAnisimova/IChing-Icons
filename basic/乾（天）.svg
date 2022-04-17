@@ -1,0 +1,13 @@
+<!--
+ Copyright 2016-2021 WuZi <wuzi@obiscr.com>
+ Github: https://github.com/obiscr
+ -->
+<svg width="100" height="80" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#ff0000" height="12" width="80" y="10" x="10" fill="#ff0000"/>
+  <rect stroke="#ff0000" height="12" width="80" y="34" x="10" fill="#ff0000"/>
+  <rect stroke="#ff0000" height="12" width="80" y="58" x="10" fill="#ff0000"/>
+ </g>
+</svg>
