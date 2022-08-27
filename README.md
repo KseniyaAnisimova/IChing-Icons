@@ -16,7 +16,7 @@
 
 # 注意
 
-要使用这些图标，请开源许可以及如下规则：
+要使用这些图标，请遵循开源许可以及如下规则：
 + 不要删除svg文件中，我的邮箱地址和github地址。
 + 在产品的显著为主标注清楚svg来源（本仓库地址：https://github.com/observer-creator/IChing-Icons 以及我的邮箱：wuzi@obiscr.com）。
 + 禁止用于非法用途。
