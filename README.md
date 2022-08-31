@@ -2,13 +2,16 @@
 
 易经八卦图，包含8个基本卦和64个衍生卦。
 
+C++ Version: See [here](https://github.com/obiscr/yijing)
+
 ## 八个基本卦（部分）
 
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yi-jing/gitee/8_e.png?versionId=CAEQUBiBgID4mfHPzBciIGVlZjExYjQ1ODJkNDQ3ZGE5ODljZDViNDUzMjU5M2Ex)
+<img width="816" alt="8_e" src="https://user-images.githubusercontent.com/28687074/187736447-62a8438f-c94b-43ab-8e50-391f4360a6cd.png">
 
 ## 六十四个衍生卦（部分）
 
-![](https://obiscr.oss-cn-hongkong.aliyuncs.com/res/yi-jing/gitee/64_e.png?versionId=CAEQUBiBgID9m_HPzBciIDVjMmM2MmU0MWUyZjRjMTNhMGVkMTMzNDBhM2NhYmE0)
+<img width="968" alt="64_e" src="https://user-images.githubusercontent.com/28687074/187736524-e61c43ce-ee92-4261-ae55-6a9000a2ae73.png">
+
 
 现在网上能找到的大部分《东方桥先生的六十四卦变换表》是比较具有历史的沧桑感。看起来比较陈旧。
 故本人进行了重新制作与校对，内容上面和原来一致。只绘制了所有的SVG图标。,如果需要使用此套图标，
