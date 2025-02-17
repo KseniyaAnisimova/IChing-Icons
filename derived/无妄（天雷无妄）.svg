@@ -9,10 +9,10 @@
   <rect stroke="#ff0000" height="12" width="80" y="10" x="10" fill="#ff0000"/>
   <rect stroke="#ff0000" height="12" width="80" y="34" x="10" fill="#ff0000"/>
   <rect stroke="#ff0000" height="12" width="80" y="58" x="10" fill="#ff0000"/>
-  <rect stroke="#000" id="svg_3" height="12" width="35" y="106" x="10" fill="#000"/>
+  <rect stroke="#778899" id="svg_3" height="12" width="35" y="106" x="10" fill="#778899"/>
   <rect stroke="#ff0000" id="svg_8" height="12" width="80" y="130" x="10" fill="#ff0000"/>
-  <rect stroke="#000" id="svg_10" height="12" width="35" y="106" x="55" fill="#000"/>
-  <rect stroke="#000" id="svg_11" height="12" width="35" y="82" x="55" fill="#000"/>
-  <rect stroke="#000" id="svg_12" height="12" width="35" y="82" x="10" fill="#000"/>
+  <rect stroke="#778899" id="svg_10" height="12" width="35" y="106" x="55" fill="#778899"/>
+  <rect stroke="#778899" id="svg_11" height="12" width="35" y="82" x="55" fill="#778899"/>
+  <rect stroke="#778899" id="svg_12" height="12" width="35" y="82" x="10" fill="#778899"/>
  </g>
 </svg>
